@@ -13,22 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-I'm Yuvanandhini T R, a passionate Software Engineer with hands-on experience in Full-Stack Development, Embedded System Devices, & IOT. I love building scalable, efficient systems that blend both hardware and software innovation.
+## 🚀 Hey there, I’m Yuvanandhini T R!
 
-🔭 I’m currently working on a Python-based AI automation system for automotive machinery — designed to analyze performance data and recommend the best-suited components or configurations for each machine.
+## 💫 About Me
 
-🌱 I’m currently learning German from Duolingo and diving deeper into system design and distributed systems & exploring advanced communication protocols and real-time data visualization techniques.
+A passionate **Software Engineer** with hands-on experience in **Full-Stack Development**, **Embedded System Devices**, and **IoT**.
+I love building scalable, efficient systems that blend both hardware and software innovation including cross-platform embedded visualization and control applications.
 
-💬 Ask me about Electron.js-based desktop apps, Python, communication protocols like UART and CAN, or data visualization and analytics.
-
-👯 I’m looking to collaborate on cross-platform engineering tools, IoT visualization dashboards, and AI-integrated hardware systems.
-
-⚡ Fun fact: I can code for devices like Arduino, solder circuits, and ship production-ready software -— all in the same day 😄
-
-🌍 Languages I speak: Tamil, English.
-
-📫 Reach me at: connect via LinkedIn (Always Available)
+- 🔭 I’m currently working on a **Python-based AI automation system for automotive machinery** — designed to **analyze performance data** and **recommend the best-suited components or configurations** for each machine.  
+- 🌱 I’m currently learning **German** from Duolingo and diving deeper into **system design** and **distributed systems**, while exploring **advanced communication protocols** and **real-time data visualization techniques**.  
+- 💬 Ask me about **Electron.js-based desktop apps**, **Python**, **communication protocols** like **UART** and **CAN**, or **data visualization and analytics**.  
+- 👯 I’m looking to collaborate on **cross-platform engineering tools**, **IoT visualization dashboards**, and **AI-integrated hardware systems**.  
+- ⚡ Fun fact: I can **code for devices like Arduino**, **solder circuits**, and **ship production-ready software** — all in the same day 😄  
+- 🌍 Languages I speak: **Tamil**, **English**.  
+- 📫 Reach me at: **connect via LinkedIn (Always Available)**  
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yuvanandhinitr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uv_serbia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvanandhini-t-r) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yuvanandhini.ece) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Yuvanandhini-T-R) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25521862) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RYuvanandhini) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yuvanandhinitr3316) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Yuvanandhini-T-R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvanandhini.ece@gmail.com) 
