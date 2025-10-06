@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Hey there, I’m Yuvanandhini T R!
+# 🚀 Hey there, I’m Yuvanandhini T R!
+---
 
 ## 💫 About Me
 
